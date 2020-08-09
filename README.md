@@ -3,7 +3,7 @@
 #method get, url:
 
 *to get all the toys: http://localhost:3000/toys
-*to get all the toys from the same category : http://localhost:3000/toys/cat/<category>
+*to get all the toys from the same category : http://localhost:3000/toys/cat/:catId
 
 
 #methods post, url:
